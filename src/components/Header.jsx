@@ -5,7 +5,7 @@ import { motion } from "motion/react"
 
 const Header = () => {
   return (
-    <div className='min-h-screen mb-4 bg-cover bg-center flex justify-center items-center w-full overflow-hidden' style={{backgroundImage:"url('/header_img.png')"} } id="Header">
+    <div className='min-h-screen mb-4 bg-cover bg-center flex justify-center items-center w-full overflow-hidden' style={{backgroundImage:"url('\header_img.webp')"} } id="Header">
 <Navbar />
 
 
